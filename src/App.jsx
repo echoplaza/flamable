@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-		<div className='flex items-center'>
+		<div className='flex items-center justify-center'>
 			<ItemGrid />
 		</div>
     </>

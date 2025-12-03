@@ -1,6 +1,7 @@
 import Projects from "./pages/projects";
 import Banner from './components/Banner'
 import SocialLinks from './components/SocialLinks'
+import MatchStick from "./MatchStick";
 import { Link, Routes, Route } from "react-router-dom";
 
 import './App.css'
@@ -31,6 +32,7 @@ function App() {
             <SocialLinks />
             
       </nav>
+      <MatchStick />
 
       </div>
 
